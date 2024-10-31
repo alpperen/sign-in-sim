@@ -1,0 +1,1 @@
+Run the (sign in) file and create a password. After creating it, go to the (log in) file and try to enter the password you created at the beginning correctly. If you enter it correctly, it will be understood anyway.z
